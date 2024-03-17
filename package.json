@@ -1,0 +1,20 @@
+{
+  "name": "jsbackend",
+  "version": "1.0.0",
+  "description": "backend project",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "yash",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
